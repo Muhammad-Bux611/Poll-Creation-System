@@ -25,10 +25,10 @@ A full-featured **Poll Management Application** built for both **Admins** and **
 
 ## 🛠️ Technologies Used
 - **Java** (Backend)
-- **Spring MVC / Spring Boot**
-- **Hibernate / JPA** (ORM)
+- **Spring MVC **
+- **Hibernate ** (ORM)
 - **MySQL** (Database)
-- **JSP / Thymeleaf** (View Layer)
+- **JSP ** (View Layer)
 - **HTML, CSS, Bootstrap** (Frontend)
 - **Maven** (Project management)
 - **Tomcat** (Server deployment)
@@ -39,5 +39,5 @@ A full-featured **Poll Management Application** built for both **Admins** and **
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-repo/poll-creation-system.git
+   git clone https://github.com/Muhammad-Bux611/poll-creation-system.git
    cd poll-creation-system
